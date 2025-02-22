@@ -10,4 +10,4 @@ Matricula: 886104
 [Captura de tela da página principal do duolingo com a aba de desenvolvedor](./imagem_arquivos_network_duolingo.png)
 
 ## Tela de projeto no Replit
-[Captura de tela do projeto no replit com Hello world](./imagem_hello_world_replit.png)
+[Captura de tela do projeto no replit com Hello world.](./imagem_hello_world_replit.png)
