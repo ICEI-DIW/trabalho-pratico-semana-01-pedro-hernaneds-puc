@@ -7,7 +7,7 @@ Nome: Pedro Maia Machado Hernades
 Matricula: 886104
 
 ## Tela de inspeção com navegador
-[Captura de tela da página principal do duolingo com a aba de desenvolvedor](./imagem_arquivos_network_duolingo.png)
+[Captura de tela da página principal do duolingo com a aba de desenvolvedor](imagem_arquivos_network_duolingo.png)
 
 ## Tela de projeto no Replit
-[Captura de tela do projeto no replit com Hello world.](./imagem_hello_world_replit.png)
+[Captura de tela do projeto no replit com Hello world.](imagem_hello_world_replit.png)
